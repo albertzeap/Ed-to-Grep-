@@ -1,0 +1,16 @@
+Afghanistan 0 1
+Afghanistan 1 1
+Afghanistan 2 1
+Afghanistan 15 5
+Afghanistan 16 7
+Algeria 0 1
+Algeria 1 1
+Algeria 2 1
+Algeria 14 20
+Algeria 15 20
+Andorra 4 1
+Andorra 5 1
+Andorra 0 1
+Andorra 1 1
+Andorra 2 1
+Andorra 3 1
