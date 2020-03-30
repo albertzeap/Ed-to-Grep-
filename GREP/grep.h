@@ -51,7 +51,6 @@ void newline(void);
 void print(void);
 void putd(void);
 int putline(void);
-void quit(int n);
 
 void readfile(const char *c); //Added 
 void search(const char *c); //Added
